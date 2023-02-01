@@ -24,6 +24,12 @@ The cosine_similarity function from the sklearn.metrics.pairwise module was used
 ## User Interface
 The user interface is built using Streamlit. It has a select box where the user can search for a movie by title. Once the user selects a movie, the system recommends 10 movies that are most similar to the selected movie.
 
+## Demo Video
+
+
+https://user-images.githubusercontent.com/118096816/215993838-f5b97038-cb48-4091-9448-5db0ebde5071.mp4
+
+
 ## Usage
 To run the movie recommendation system, follow these steps:
 
