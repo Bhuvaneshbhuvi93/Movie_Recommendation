@@ -26,9 +26,7 @@ The user interface is built using Streamlit. It has a select box where the user 
 
 ## Demo Video
 
-
-https://user-images.githubusercontent.com/118096816/215993838-f5b97038-cb48-4091-9448-5db0ebde5071.mp4
-
+https://user-images.githubusercontent.com/118096816/215994152-d8bc9c95-b882-4524-a59f-e41161acfdca.mp4
 
 ## Usage
 To run the movie recommendation system, follow these steps:
